@@ -57,10 +57,4 @@ coverage/
 migrations/
 seeders/
 
-# =====================================
-# Docker (si luego lo dockerizas)
-# =====================================
-docker-compose.override.yml
-.docker/
-Dockerfile
-*.pid
+
